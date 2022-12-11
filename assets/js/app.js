@@ -138,7 +138,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Liên hệ</h6>
               </div>
-                <form name="form1" action="https://formsubmit.co/contact@nguyenhiep.me" method="POST" accept-charset="UTF-8" >
+                <form name="form1" action="https://formsubmit.co/f28009569d9f20d74121aba3e6e07299" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Họ tên" required/>
                   <input id="email" type="email" name="email" placeholder="Địa chỉ email" required/>                  
                   <textarea id="textArea" name="message" placeholder="Lời nhắn..." required></textarea>    
