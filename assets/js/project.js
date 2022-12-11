@@ -18,15 +18,15 @@ const projects = [
     Previewlink: "https://meet.nguyenhiep.me",
   },
   {
-    title: "Landing page CD21",
+    title: "Landing page HT Center",
     cardImage: "assets/images/project-page/3.png",
-    description: "Landing page cho lớp CD21.",
+    description: "Landing page HT Center.",
     Previewlink: "https://cd21.vercel.app",
   },
   {
-    title: "Landing page HT Center",
+    title: "Landing page CD21",
     cardImage: "assets/images/project-page/4.png",
-    description: "Landing page HT Center.",
+    description: "Landing page CD21.",
     Previewlink: "https://ht-center.vercel.app",
   },
   {
